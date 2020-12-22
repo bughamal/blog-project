@@ -1,7 +1,7 @@
 baseURL = "http://www.example.com"
 title = "johndoe"
 
-theme = "hugo-coder"
+theme = "hugo-coder."
 
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -15,12 +15,14 @@ pygmentsCodeFencesGuessSyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
-    keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
-    avatarURL = "images/avatar.jpg"
-    #gravatar = "john.doe@example.com"
+    author = "Chun Yi"
+    description = "Chun Yi's personal website"
+    keywords = "blog"
+    info = "小菜鸡"
+    avatarURL = "images/avatar.png"
+    favicon_32 = "img/favicon-32x32.png"
+    favicon_16 = "img/favicon-16x16.png"
+    gravatar = "bughamal.github.io"
     footerContent = "Enter a text here."
 
     dateFormat = "January 2, 2006"
